@@ -1,1 +1,1 @@
-# Electronic-goods-sales-Recommendation-system
+# Electronic-goods-items-Recommendation-system
